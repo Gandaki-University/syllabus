@@ -69,7 +69,7 @@ The course is designed to teach the principles of networking by using protocol l
 1. Principles of Cryptography
 	- Symmetric Key Cryptography
 	- Public Key Encryption
-1. Cryptographic Hash Functiions, Message Authenticatio Code and Digital Signatures
+	- Cryptographic Hash Functiions, Message Authentication Code and Digital Signatures
 1. Securing Applications
 	- End-point Authentication
 	- Email
