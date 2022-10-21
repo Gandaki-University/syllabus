@@ -36,19 +36,22 @@ The course is designed to teach the principles of networking by using protocol l
 #### Data-link Layer & Network Layer
 
 1. Introduction
-1. Error Detecction and Correction
+1. Error Detection and Correction
 1. DLC (Data Link Control) and MAC(Media Access Control)
-1. Wired and Wireless Networks. CDMA, 4G LTE Cellular networks, 5G Cellular Networks
-1. Virtual LANs, NAT, DHCP, ARP
+1. Wired and Wireless Networks. 
+	- Coding Schemes: CDMA, 4G LTE Cellular networks, 5G Cellular Networks
+	- Spread spectrum signals
 1. Network Protocols
 1. Routing Protocols: Unicast and Multicast
 1. Routing Algorithm
-1. Next Generation IP
-1. Software Defined Network (SDN)
+1. Software Defined Network (SDN): Principles, Protocols, Implications
+1. Virtual LANs, NAT, DHCP, ARP, BGP/OSPF
+1. NetFlow
+1. MPLS(Multi-protocol label switching) and SD-WAN (Software-defined Wide Area Network)
 
 #### Transport Layer and Application Layer
 
-1. Transport Layer Protocols
+1. Transport Layer Protocols: TCP/UDP
 1. Standard Client-Server Protocols
 1. Network management & Multimedia Networking
 
@@ -58,6 +61,8 @@ The course is designed to teach the principles of networking by using protocol l
 1. Information Theory
 1. The Network Management Framework - SNMP, NETCONF/YANG, ICMP, BGP, OSPF.
 1. Cisco Certifications on Network Design
+1. IOT, VoIP
+1. SCADA, RealTime systems.
 
 #### Network Security
 1. Introduction
@@ -72,6 +77,7 @@ The course is designed to teach the principles of networking by using protocol l
 	- IPSec and VPNs
 	- Securing Wireless LAN
 	- Operational Security with Firewall and Intrusion Detection Systems
+1. DMZ, Honeypots, HoneyNets, Proxy Servers
 
 ### Lab Tutorials
 
@@ -91,11 +97,16 @@ cable and straight through cable using clamping tool.
 13. Planning Network-based Firewalls
 14. Configuring DHCP, VLANs, IOT and SIP devices.
 
+## Programming Assignments(s):
+
+1. Network Socket Programming
+1. Network Packet Analysis - Deep Packet Inspection 
+1. Network Packet Analysis - Log File Analysis
+
 ## Textbook(s):
 1. Computer Networking, A Top-Down Approach. J.F. Kurose and K.W. Ross. Pearson. Eighth Edition.
 1. Data Communications and Networking 5E. Forouzan. McGraw-Hill
 1. Networking Essentials. J.S. Beasley, P. Nilkaew. Pearson
-1. 
 
 ## References
 1. TCP/IP Protocol Suits
