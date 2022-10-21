@@ -105,7 +105,7 @@ cable and straight through cable using clamping tool.
 
 ## Textbook(s):
 1. Computer Networking, A Top-Down Approach. J.F. Kurose and K.W. Ross. Pearson. Eighth Edition.
-1. Data Communications and Networking 5E. Forouzan. McGraw-Hill
+1. Data Communications and Networking. Forouzan. McGraw-Hill
 1. Networking Essentials. J.S. Beasley, P. Nilkaew. Pearson
 
 ## References
