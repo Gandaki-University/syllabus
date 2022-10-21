@@ -8,7 +8,7 @@ The main objectives of the course are:
 
 ## Course Description
 
-The course is designed to teach the principles of networking by using protocol layering of the internet and the TCP/IP protocol suite. The topics flow in bottom-up approach. The learner shall understand how bits move in physical layer before learning how programs exchange messages at application layer. The learner shall complete 10 quizzes, 4 assignments, and topic based problem sets. Moreover, the learner will work through Lab Assignments, Programming Assignments and Simulation Experiments throughout the course.
+The course is designed to teach the principles of networking by using protocol layering of the internet and the TCP/IP protocol suite. The topics flow in bottom-up approach. The learner shall understand how bits move in physical layer before learning how programs exchange messages at application layer. The learner shall complete 10 quizzes, 4 assignments, 1 semester Project, regular examinations and topic based problem sets. Moreover, the learner will work through Lab Assignments, Programming Assignments and Simulation Experiments throughout the course.
 
 ## Course Outcomes
 
