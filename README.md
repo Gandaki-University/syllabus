@@ -20,20 +20,20 @@ The course is designed to teach the principles of networking by using protocol l
 
 ### Theoretical Tutorials
 
-#### Introduction to Computer Network and Data Communication
+#### Introduction to Computer Network and Data Communication [3 hrs]
 
 1. Internet and Intranet
 1. History of Computer Networking and Internet
 1. Introduction to Packet Switched Network and Circuit Switched Network
 
-#### Physical Layer
+#### Physical Layer [7 hrs]
 
 1. Analog and Digital Transmission
 1. Bandwidth Utilization: Multiplexing and Spectrum Spreading
 1. Transmission Media
 1. Switching
 
-#### Data-link Layer & Network Layer
+#### Data-link Layer & Network Layer [20 hrs]
 
 1. Introduction
 1. Error Detection and Correction
@@ -49,13 +49,13 @@ The course is designed to teach the principles of networking by using protocol l
 1. NetFlow
 1. MPLS(Multi-protocol label switching) and SD-WAN (Software-defined Wide Area Network)
 
-#### Transport Layer and Application Layer
+#### Transport Layer and Application Layer [6 hrs]
 
 1. Transport Layer Protocols: TCP/UDP
 1. Standard Client-Server Protocols
 1. Network management & Multimedia Networking
 
-#### Network Essentials
+#### Network Essentials [12 hrs]
 
 1. Quality of Service
 1. Information Theory
@@ -64,7 +64,7 @@ The course is designed to teach the principles of networking by using protocol l
 1. IOT, VoIP
 1. SCADA, RealTime systems.
 
-#### Network Security
+#### Network Security	[12 hrs]
 1. Introduction
 1. Principles of Cryptography
 	- Symmetric Key Cryptography
