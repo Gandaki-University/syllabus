@@ -33,7 +33,7 @@ The course is designed to teach the principles of networking by using protocol l
 1. Transmission Media
 1. Switching
 
-#### Data-link Layer & Network Layer [20 hrs]
+#### Data-link Layer [10 hrs]
 
 1. Introduction
 1. Error Detection and Correction
@@ -41,6 +41,9 @@ The course is designed to teach the principles of networking by using protocol l
 1. Wired and Wireless Networks. 
 	- Coding Schemes: CDMA, 4G LTE Cellular networks, 5G Cellular Networks
 	- Spread spectrum signals
+
+#### Network Layer [10 hrs]
+
 1. Network Protocols
 1. Routing Protocols: Unicast and Multicast
 1. Routing Algorithm
@@ -55,16 +58,18 @@ The course is designed to teach the principles of networking by using protocol l
 1. Standard Client-Server Protocols
 1. Network management & Multimedia Networking
 
-#### Network Essentials [12 hrs]
+#### Network Essentials [6 hrs]
 
 1. Quality of Service
 1. Information Theory
 1. The Network Management Framework - SNMP, NETCONF/YANG, ICMP, BGP, OSPF.
+
+#### Networking as a Career [6 hrs]
 1. Cisco Certifications on Network Design
 1. IOT, VoIP
 1. SCADA, RealTime systems.
 
-#### Network Security	[12 hrs]
+#### Network Security	[9 hrs]
 1. Introduction
 1. Principles of Cryptography
 	- Symmetric Key Cryptography
@@ -77,6 +82,8 @@ The course is designed to teach the principles of networking by using protocol l
 	- IPSec and VPNs
 	- Securing Wireless LAN
 	- Operational Security with Firewall and Intrusion Detection Systems
+
+#### Network SCAMS [3 hrs]
 1. DMZ, Honeypots, HoneyNets, Proxy Servers
 
 ### Lab Tutorials
