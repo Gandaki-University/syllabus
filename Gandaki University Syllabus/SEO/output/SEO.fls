@@ -902,6 +902,13 @@ INPUT Sections/lab.tex
 INPUT ./Sections/lab.tex
 INPUT ./Sections/lab.tex
 INPUT Sections/lab.tex
+INPUT ./Sections/Textbook.tex
+INPUT ./Sections/Textbook.tex
+INPUT ./Sections/Textbook.tex
+INPUT Sections/Textbook.tex
+INPUT ./Sections/Textbook.tex
+INPUT ./Sections/Textbook.tex
+INPUT Sections/Textbook.tex
 INPUT output/SEO.aux
 INPUT output/SEO.out
 INPUT output/SEO.out
