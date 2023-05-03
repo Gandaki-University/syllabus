@@ -1,0 +1,22 @@
+\newpage
+\appendix
+\doappendixstuff
+\section{Program Outcomes}
+\label{app:po}
+\noindent
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={"},
+string type,
+column type=l,
+trim cells=true,
+header=true,    
+columns={POs,Category,Program Outcomes},     
+columns/POs/.style={string type,column type=p{0.75cm}},
+columns/Category/.style={column type=p{5.75cm},string type},
+columns/Program Outcomes/.style={string type, column type=p{9.5cm}},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/appendix_A.csv}

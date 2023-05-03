@@ -1,0 +1,14 @@
+\subsection{Course Learning Outcome (CLO/ILO)}
+At the end of the term, students will be able to do
+
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={\"},  
+columns={CLOs,Outcomes},     
+columns/CLOs/.style={string type,column type=p{1.25cm}},
+columns/Outcomes/.style={string type, column type=p{15cm}},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/clo.csv}

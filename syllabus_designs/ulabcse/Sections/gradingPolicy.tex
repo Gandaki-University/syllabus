@@ -1,0 +1,18 @@
+\subsection{Grading Policy}
+
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={\"},
+column type=l,
+trim cells=true,
+header=true,    
+columns={Policy,Letter Grade,Grade Point,Assessments},     
+columns/Policy/.style={string type,column type=l},
+columns/Letter Grade/.style={column type=c,string type},
+columns/Grade Point/.style={column type=c,string type},
+columns/Assessments/.style={string type},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/gradingPolicy.csv}

@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {0.1}Project Roadmap}{2}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Project Updates}{2}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Results}{2}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Things I Need Help with and my Plan to Resolve}{2}{section.0.4}%
+\contentsline {section}{\numberline {0.5}Process Diary}{3}{section.0.5}%

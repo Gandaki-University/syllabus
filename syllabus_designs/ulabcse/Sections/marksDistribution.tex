@@ -1,0 +1,41 @@
+\subsection{Distribution of Marks for Assessment}
+
+\subsubsection{Cumulative Impact Evaluation (CIE) (60 marks)}
+
+
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={\"},
+column type=l,
+trim cells=true,
+header=true,    
+columns={Bloom's Criteria,Attendance,Quiz,Assignment,Presentation, Mid Exam},     
+columns/Bloom's Criteria/.style={string type,column type=l},
+columns/Attendance/.style={column type=c,string type},
+columns/Quiz/.style={column type=c,string type},
+columns/Assignment/.style={column type=c,string type},
+columns/Presentation/.style={column type=c,string type},
+columns/Mid Exam/.style={column type=c,string type},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/cie.csv}
+
+\subsubsection{Semester End Examination (SEE) (40 marks)}
+
+
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={\"},
+column type=l,
+trim cells=true,
+header=true,    
+columns={Bloom's Criteria, Score for the Test},     
+columns/Bloom's Criteria/.style={string type,column type=l},
+columns/Score for the Test/.style={column type=c,string type},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/see.csv}

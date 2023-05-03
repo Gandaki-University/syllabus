@@ -1,0 +1,13 @@
+\subsection{Teaching and Learning Activities (TLA)}
+\noindent
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={\"},  
+columns={TLAs,Activities},     
+columns/TLAs/.style={string type,column type=p{1.5cm}},
+columns/Activities/.style={string type, column type=p{15cm}},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/tla.csv}

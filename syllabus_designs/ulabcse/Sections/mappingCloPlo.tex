@@ -1,0 +1,26 @@
+\subsection{Mapping of Course Learning Outcomes to Program Learning Outcomes (PLO/PO)}
+
+\noindent
+\pgfplotstabletypeset[col sep=comma,
+ignore chars={\"},  
+columns={ CLOs,PO1,PO2,PO3,PO4,PO5,PO6,PO7,PO8,PO9,PO10,PO11,PO12},     
+columns/CLOs/.style={string type,column type=p{1.5cm}},
+columns/PO1/.style={string type, column type=c},
+columns/PO2/.style={string type, column type=c},
+columns/PO3/.style={string type, column type=c},
+columns/PO4/.style={string type, column type=c},
+columns/PO5/.style={string type, column type=c},
+columns/PO6/.style={string type, column type=c},
+columns/PO7/.style={string type, column type=c},
+columns/PO8/.style={string type, column type=c},
+columns/PO9/.style={string type, column type=c},
+columns/PO10/.style={string type, column type=c},
+columns/PO11/.style={string type, column type=c},
+columns/PO12/.style={string type, column type=c},
+every head row/.style={before row=\toprule, after row=\midrule}, 
+every last row/.style={after row=\bottomrule},
+every even row/.style={before row={\rowcolor{ulabblue!30}}},
+begin table=\begin{longtable},
+end table=\end{longtable},
+]{Files/mapping.csv}
+Note: Please refer to Appendix \ref{app:po} for program learning outcome details.
