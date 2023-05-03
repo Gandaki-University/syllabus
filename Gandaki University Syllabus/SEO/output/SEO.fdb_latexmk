@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1683107346 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" "output/SEO.pdf" "SEO" 1683107346
+["pdflatex"] 1683108079 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" "output/SEO.pdf" "SEO" 1683108079
   "/etc/texmf/web2c/texmf.cnf" 1680852603 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" 1683107346 3572 3012e30af0efb7b89e328c0e1f1053fa ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -114,13 +114,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1681382534 2798761 7179f12c7dc0ac0bde273491a7f913ee ""
   "SEO.tex" 1683107346 3572 3012e30af0efb7b89e328c0e1f1053fa ""
   "Sections/Description.tex" 1683102369 1513 51778d62023605adfe81dd7111aadc29 ""
-  "Sections/courseStructure.tex" 1683106565 3311 a4a7778a67e8c74ed62dfde33a061ecc ""
+  "Sections/courseStructure.tex" 1683108079 3466 71fb06b7df4cb541108b8d96dcf7c268 ""
   "Sections/exam.tex" 1683106344 395 e6da0f31299ed8bb6a3db72aa3a9f424 ""
   "Sections/lab.tex" 1683106588 73 ffc0789a73f4ad07e1cd1e45faa36093 ""
   "Sections/objectives.tex" 1683106681 483 034c10e2f5d250a1ee9ae2d0e19f7a55 ""
   "Sections/outcomes.tex" 1683107102 487 05c699f6a12351d53a7856f8622a598b ""
-  "output/SEO.aux" 1683107346 2351 c5251da46c27d3035722512ad68aed85 "pdflatex"
-  "output/SEO.out" 1683107346 1838 7b139e9fa74652f5aeac527665c46457 "pdflatex"
+  "output/SEO.aux" 1683108079 2492 63ae7f19f3d3be8c17c0b238709b6b6a "pdflatex"
+  "output/SEO.out" 1683108079 2336 4d1af9a5b4c5d00575ac1b549d054fce "pdflatex"
   "variables.tex" 1683107331 343 279b42d6855ddcaeb6d681753096a30a ""
   (generated)
   "output/SEO.aux"

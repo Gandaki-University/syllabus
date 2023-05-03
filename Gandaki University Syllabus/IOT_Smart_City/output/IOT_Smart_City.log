@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/Internship/Internship.tex"
-(/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/Internship/Internship.tex
+**"/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/IOT_Smart_City/IOT_Smart_City.tex"
+(/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/IOT_Smart_City/IOT_Smart_City.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -447,8 +447,8 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 67.
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count358
 \l__pdf_internal_box=\box102
-) (output/Internship.aux)
-\openout1 = `Internship.aux'.
+) (output/IOT_Smart_City.aux)
+\openout1 = `IOT_Smart_City.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
@@ -540,9 +540,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
 LaTeX Info: Redefining \nameref on input line 69.
- (output/Internship.out) (output/Internship.out)
+ (output/IOT_Smart_City.out) (output/IOT_Smart_City.out)
 \@outlinefile=\write3
-\openout3 = `Internship.out'.
+\openout3 = `IOT_Smart_City.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 72.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
@@ -575,20 +575,20 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 5
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )) (./Sections/courseStructure.tex [2] [3]) (./Sections/exam.tex) (./Sections/lab.tex) 
 AED: lastpage setting LastPage
-[4] (output/Internship.aux)
-Package rerunfilecheck Info: File `Internship.out' has not changed.
+[4] (output/IOT_Smart_City.aux)
+Package rerunfilecheck Info: File `IOT_Smart_City.out' has not changed.
 (rerunfilecheck)             Checksum: 7B139E9FA74652F5AEAC527665C46457;1838.
  ) 
 Here is how much of TeX's memory you used:
  12338 strings out of 478287
- 191406 string characters out of 5849289
- 513066 words of memory out of 5000000
+ 191486 string characters out of 5849289
+ 513094 words of memory out of 5000000
  30242 multiletter control sequences out of 15000+600000
  502582 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,11n,76p,1119b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,76p,1127b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on output/Internship.pdf (4 pages, 79563 bytes).
+Output written on output/IOT_Smart_City.pdf (4 pages, 80000 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  129 compressed objects within 2 object streams
