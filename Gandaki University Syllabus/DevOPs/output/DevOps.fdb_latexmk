@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1683449297 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/DevOPs/DevOps.tex" "output/DevOps.pdf" "DevOps" 1683449297
+["pdflatex"] 1683452027 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/DevOPs/DevOps.tex" "output/DevOps.pdf" "DevOps" 1683452027
   "/etc/texmf/web2c/texmf.cnf" 1680852603 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/DevOPs/DevOps.tex" 1683449217 3663 f237d5645a34c936d9c94c43939bfd2f ""
+  "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/DevOPs/DevOps.tex" 1683452027 3663 f237d5645a34c936d9c94c43939bfd2f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -112,16 +112,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1681382509 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1681382534 2798761 7179f12c7dc0ac0bde273491a7f913ee ""
-  "DevOps.tex" 1683449217 3663 f237d5645a34c936d9c94c43939bfd2f ""
-  "Sections/Description.tex" 1683449217 1513 51778d62023605adfe81dd7111aadc29 ""
+  "DevOps.tex" 1683452027 3663 f237d5645a34c936d9c94c43939bfd2f ""
+  "Sections/Description.tex" 1683451235 855 222ba1e3e344ed20906f1fea10fd3036 ""
   "Sections/Textbook.tex" 1683449217 968 8e1326f204683faf4941ec15aa5f8ba9 ""
-  "Sections/courseStructure.tex" 1683449217 3466 71fb06b7df4cb541108b8d96dcf7c268 ""
+  "Sections/courseStructure.tex" 1683451946 3432 74d483e40f48d22ec8da2bd11d2694d8 ""
   "Sections/exam.tex" 1683449217 405 c20137127459ce6c565504271f065696 ""
   "Sections/lab.tex" 1683449217 73 ffc0789a73f4ad07e1cd1e45faa36093 ""
-  "Sections/objectives.tex" 1683449217 483 034c10e2f5d250a1ee9ae2d0e19f7a55 ""
-  "Sections/outcomes.tex" 1683449217 487 05c699f6a12351d53a7856f8622a598b ""
-  "output/DevOps.aux" 1683449297 2711 e51aff6df97e928f1b0221fd9b90362d "pdflatex"
-  "output/DevOps.out" 1683449297 2561 1b863c965a85a35673c666c5577a4e47 "pdflatex"
+  "Sections/objectives.tex" 1683451065 418 b85934d5af3ba0f5fab5180082953bc5 ""
+  "Sections/outcomes.tex" 1683451340 390 4ecc729235dccb586efd0a1267d31060 ""
+  "output/DevOps.aux" 1683452027 2711 8246c376747f272d7ff5c18c3c6c157d "pdflatex"
+  "output/DevOps.out" 1683452027 2561 1b863c965a85a35673c666c5577a4e47 "pdflatex"
   "variables.tex" 1683449297 338 ec462347e2a39310d380749b456d9521 ""
   (generated)
   "output/DevOps.aux"
