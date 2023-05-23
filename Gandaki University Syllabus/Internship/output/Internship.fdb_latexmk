@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1683449359 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/Internship/Internship.tex" "output/Internship.pdf" "Internship" 1683449359
+["pdflatex"] 1684832536 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/Internship/Internship.tex" "output/Internship.pdf" "Internship" 1684832536
   "/etc/texmf/web2c/texmf.cnf" 1680852603 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/Internship/Internship.tex" 1683449005 3574 9cb0213d83a73635273007a32cb3a03c ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -113,14 +113,14 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1681382509 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1681382534 2798761 7179f12c7dc0ac0bde273491a7f913ee ""
   "Internship.tex" 1683449005 3574 9cb0213d83a73635273007a32cb3a03c ""
-  "Sections/Description.tex" 1683107283 1513 51778d62023605adfe81dd7111aadc29 ""
-  "Sections/courseStructure.tex" 1683107283 3311 a4a7778a67e8c74ed62dfde33a061ecc ""
-  "Sections/exam.tex" 1683107283 395 e6da0f31299ed8bb6a3db72aa3a9f424 ""
+  "Sections/Description.tex" 1684831463 668 d95341b9d569cd51e046bb05c85ad45a ""
+  "Sections/courseStructure.tex" 1684832535 2179 f999ad2eff8dac17e05edcec36b10c5f ""
+  "Sections/exam.tex" 1684832124 535 a75de002257241601ea160f7d7f1210a ""
   "Sections/lab.tex" 1683107283 73 ffc0789a73f4ad07e1cd1e45faa36093 ""
-  "Sections/objectives.tex" 1683107283 483 034c10e2f5d250a1ee9ae2d0e19f7a55 ""
-  "Sections/outcomes.tex" 1683107283 487 05c699f6a12351d53a7856f8622a598b ""
-  "output/Internship.aux" 1683449359 2351 c5251da46c27d3035722512ad68aed85 "pdflatex"
-  "output/Internship.out" 1683449359 1838 7b139e9fa74652f5aeac527665c46457 "pdflatex"
+  "Sections/objectives.tex" 1684831568 333 b13f1fedd539001bdb5c0c263983a08a ""
+  "Sections/outcomes.tex" 1684832410 970 94f8b4b0e192e19a60b04379eee53d85 ""
+  "output/Internship.aux" 1684832536 1950 ff53979103d17c1cbe5e23fd4b9d900f "pdflatex"
+  "output/Internship.out" 1684832536 1581 0d8345b05e51b6d5696716bfafb33840 "pdflatex"
   "variables.tex" 1683449358 295 7153eae9409fb82dd757fca1d81d4475 ""
   (generated)
   "output/Internship.aux"
