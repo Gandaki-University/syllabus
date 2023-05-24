@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1684830553 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" "output/SEO.pdf" "SEO" 1684830553
+["pdflatex"] 1684915252 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" "output/SEO.pdf" "SEO" 1684915252
   "/etc/texmf/web2c/texmf.cnf" 1680852603 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" 1683108850 3663 f237d5645a34c936d9c94c43939bfd2f ""
+  "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/SEO/SEO.tex" 1684915252 3666 fcf307406aeae5f3a2e3af31d6415fa5 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -112,7 +112,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1681382509 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1681382534 2798761 7179f12c7dc0ac0bde273491a7f913ee ""
-  "SEO.tex" 1683108850 3663 f237d5645a34c936d9c94c43939bfd2f ""
+  "SEO.tex" 1684915252 3666 fcf307406aeae5f3a2e3af31d6415fa5 ""
   "Sections/Description.tex" 1683102369 1513 51778d62023605adfe81dd7111aadc29 ""
   "Sections/Textbook.tex" 1683109496 968 8e1326f204683faf4941ec15aa5f8ba9 ""
   "Sections/courseStructure.tex" 1683108079 3466 71fb06b7df4cb541108b8d96dcf7c268 ""
@@ -120,9 +120,9 @@
   "Sections/lab.tex" 1683106588 73 ffc0789a73f4ad07e1cd1e45faa36093 ""
   "Sections/objectives.tex" 1683106681 483 034c10e2f5d250a1ee9ae2d0e19f7a55 ""
   "Sections/outcomes.tex" 1683107102 487 05c699f6a12351d53a7856f8622a598b ""
-  "output/SEO.aux" 1684830553 2711 e51aff6df97e928f1b0221fd9b90362d "pdflatex"
-  "output/SEO.out" 1684830553 2561 1b863c965a85a35673c666c5577a4e47 "pdflatex"
-  "variables.tex" 1684830553 346 61b17a703aee945b5c5a42b3bc6106ab ""
+  "output/SEO.aux" 1684915252 2711 e51aff6df97e928f1b0221fd9b90362d "pdflatex"
+  "output/SEO.out" 1684915252 2561 1b863c965a85a35673c666c5577a4e47 "pdflatex"
+  "variables.tex" 1684915251 409 8176db5c8204f0220d78c25026c13fe8 ""
   (generated)
   "output/SEO.aux"
   "output/SEO.log"

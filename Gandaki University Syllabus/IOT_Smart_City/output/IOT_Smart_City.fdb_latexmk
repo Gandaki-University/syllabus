@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1684836436 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/IOT_Smart_City/IOT_Smart_City.tex" "output/IOT_Smart_City.pdf" "IOT_Smart_City" 1684836436
+["pdflatex"] 1684915312 "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/IOT_Smart_City/IOT_Smart_City.tex" "output/IOT_Smart_City.pdf" "IOT_Smart_City" 1684915312
   "/etc/texmf/web2c/texmf.cnf" 1680852603 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/IOT_Smart_City/IOT_Smart_City.tex" 1684833854 3608 e15598d706e00f4d97356a7ad90ee2e7 ""
+  "/media/drives/four/gu_admin/syllabus/Gandaki University Syllabus/IOT_Smart_City/IOT_Smart_City.tex" 1684915312 3611 62b125b81006d6a0686b6859ebde24c4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -139,16 +139,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1681382509 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1681382534 2798761 7179f12c7dc0ac0bde273491a7f913ee ""
-  "IOT_Smart_City.tex" 1684833854 3608 e15598d706e00f4d97356a7ad90ee2e7 ""
+  "IOT_Smart_City.tex" 1684915312 3611 62b125b81006d6a0686b6859ebde24c4 ""
   "Sections/Description.tex" 1684833711 1603 70cbb9338b040ce81cebf9db8db70cee ""
   "Sections/courseStructure.tex" 1684836435 3657 2d1b84aad4c883907ff53cb9721c9c76 ""
   "Sections/exam.tex" 1684836072 517 d8fdf752b65ecd64c0695a72ff38fc52 ""
   "Sections/lab.tex" 1683107523 73 ffc0789a73f4ad07e1cd1e45faa36093 ""
   "Sections/objectives.tex" 1684833894 371 416a4a27e8132fd620ef8c7d300b0831 ""
   "Sections/outcomes.tex" 1684836350 371 60b9f22951ee2add65df4e5d5ee858b4 ""
-  "output/IOT_Smart_City.aux" 1684836436 2894 552c387988ab03cda38925835739cec7 "pdflatex"
-  "output/IOT_Smart_City.out" 1684836436 2844 5c59622d2b7705f4cfec894dec5c4be1 "pdflatex"
-  "variables.tex" 1684833828 544 b592278af59d943fac8bef9c0ea69f1c ""
+  "output/IOT_Smart_City.aux" 1684915312 2894 552c387988ab03cda38925835739cec7 "pdflatex"
+  "output/IOT_Smart_City.out" 1684915312 2844 5c59622d2b7705f4cfec894dec5c4be1 "pdflatex"
+  "variables.tex" 1684915300 607 643f914e05bffe13698bfeb4dc5d2394 ""
   (generated)
   "output/IOT_Smart_City.aux"
   "output/IOT_Smart_City.log"
