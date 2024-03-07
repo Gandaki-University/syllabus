@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/public/course.xsl"?>
+<course>
+  <syllabus>
+    <chapter>
+      <title>Chapter 1: Introduction to XSLT</title>
+      <lecture_hours>2</lecture_hours>
+      <lecture_subtopics>
+        <subtopic>Lecture 1: XSLT Basics</subtopic>
+        <subtopic>Lecture 2: XSLT Templates</subtopic>
+      </lecture_subtopics>
+    </chapter>
+    <!-- ... other chapters ... -->
+  </syllabus>
+  <assignments>
+    <assignment>
+      <title>Assignment 1: XSLT Transformation</title>
+      <objectives>Practice XSLT transformations</objectives>
+      <deadline_date>2023-09-01</deadline_date>
+      <published_date>2023-08-01</published_date>
+      <files>
+        <file>assignment1.pdf</file>
+        <file>sample.xml</file>
+      </files>
+    </assignment>
+    <!-- ... other assignments ... -->
+  </assignments>
+  <course_handouts>
+    <lecture>
+      <title>Lecture 1: XSLT Basics</title>
+      <files>
+        <file>lecture1.pdf</file>
+        <file>quiz1.pdf</file>
+      </files>
+    </lecture>
+    <!-- ... other lectures ... -->
+  </course_handouts>
+</course>
